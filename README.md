@@ -32,10 +32,10 @@ git clone https://github.com/as4c/Authentication-App.git
 
 
 2. Change into the project directory:
-
+```bash
 cd django-authentication-project
+````
 
-markdown
 
 
 3. Set up the backend:
@@ -86,22 +86,22 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 1. Fork the repository.
 2. Create a new branch for your feature/fix:
-
+```
 git checkout -b feature/my-feature
-
+```
 markdown
 
 3. Make your changes and commit them:
-
+```
 git commit -m "Add new feature"
+```
 
-css
 
 4. Push the changes to your forked repository:
-
+```bash
 git push origin feature/my-feature
+```
 
-csharp
 
 5. Open a pull request on the original repository.
 
